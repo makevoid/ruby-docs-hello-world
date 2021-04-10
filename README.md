@@ -7,7 +7,6 @@ products:
   - Azure Web Apps
 ---
 
-
 # Ruby on Rails Hello World
 
 This sample demonstrates the default Ruby on Rails app for [App Service on Linux](https://docs.microsoft.com/azure/app-service/containers).
